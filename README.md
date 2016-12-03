@@ -20,19 +20,23 @@ Desenvolvedores:
 Créditos:
 
 	Programação &
-	Game Design:	DOUGLAS SILVA LACERDA
+	Game Design:	
+			DOUGLAS SILVA LACERDA
 			EVERTON BARBOSA MARTINS
 			JORGE ENRIQUE VENDRAMINI ORELLANA MUNOZ			
 
-	*Assets:	EVERTON BARBOSA MARTINS
+	*Assets:	
+			EVERTON BARBOSA MARTINS
 			DOUGLAS SILVA LACERDA
 			
 
-	Documentação: 	LEONARDO OLIVEIRA
+	Documentação: 	
+			LEONARDO OLIVEIRA
 			JORGE ENRIQUE VENDRAMINI ORELLANA MUNOZ
 			
 
-	Level Design:	JORGE ENRIQUE VENDRAMINI ORELLANA MUNOZ
+	Level Design:	
+			JORGE ENRIQUE VENDRAMINI ORELLANA MUNOZ
 			DOUGLAS SILVA LACERDA
 			LEONARDO OLIVEIRA
 			
@@ -40,7 +44,8 @@ Créditos:
 *: Todas as imagens foram feitas com GNU Image Manipulation Program A.K.A. GIMP e no Paint.Net.
 
 Requisitos minimos:
-	Windows 	Windows7 ou superior;
+	Windows 	
+		Windows7 ou superior;
 		.NET Framework 2.0 ou superior
 		Intel HD 2000 ou superior
 
@@ -49,4 +54,4 @@ Requisitos minimos:
 	iOS	Versão 8 ou superior
 
 	Mac	Processador AMD HD 5000 ou superior
-		iOS X ou superior
+
