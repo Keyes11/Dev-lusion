@@ -42,16 +42,3 @@ Créditos:
 			
 
 *: Todas as imagens foram feitas com GNU Image Manipulation Program A.K.A. GIMP e no Paint.Net.
-
-Requisitos minimos:
-	Windows 	
-		Windows7 ou superior;
-		.NET Framework 2.0 ou superior
-		Intel HD 2000 ou superior
-
-	Android	Versão 4.0 ou superior
-
-	iOS	Versão 8 ou superior
-
-	Mac	Processador AMD HD 5000 ou superior
-
