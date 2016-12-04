@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: f0c8c31ad0a3fd944a8f21942a0c0df4
+timeCreated: 1477146413
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WallLab-Border_0
+    21300002: WallLab-Border_1
+    21300004: WallLab-Border_2
+    21300006: WallLab-Border_3
+    21300008: WallLab-Border_4
+    21300010: WallLab-Border_5
+    21300012: WallLab-Border_6
+    21300014: WallLab-Border_7
+    21300016: WallLab-Border_8
+    21300018: WallLab-Border_9
+    21300020: WallLab-Border_10
+    21300022: WallLab-Border_11
+    21300024: WallLab-Border_12
+    21300026: WallLab-Border_13
+    21300028: WallLab-Border_14
+    21300030: WallLab-Border_15
+    21300032: WallLab-Border_16
+    21300034: WallLab-Border_17
+    21300036: WallLab-Border_18
+    21300038: WallLab-Border_19
+    21300040: WallLab-Border_20
+    21300042: WallLab-Border_21
+    21300044: WallLab-Border_22
+    21300046: WallLab-Border_23
+    21300048: WallLab-Border_24
+    21300050: WallLab-Border_25
+    21300052: WallLab-Border_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallLab-Border_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1548
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1548
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1548
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1290
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1290
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1290
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1032
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1032
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 774
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 774
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 774
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 516
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 258
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 258
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 258
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WallLab-Border_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
