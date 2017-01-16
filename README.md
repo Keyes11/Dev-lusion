@@ -13,7 +13,7 @@ Jogo para auxílio na fixação de lógica de programação
 Desenvolvedores:
 
 	DOUGLAS SILVA LACERDA (dsldouglas@hotmail.com / gladiocitrico.blogspot.com)
-	EVERTON BARBOSA MARTINS (keyes93@live.com)
+	EVERTON BARBOSA MARTINS (everton.martins93@outlook.com)
 	JORGE ENRIQUE VENDRAMINI ORELLANA MUNOZ (jorgemunhoz_88@hotmail.com)
 	LEONARDO OLIVEIRA (leonardo.7bits@outlook.com)
 	
